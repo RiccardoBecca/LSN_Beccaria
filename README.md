@@ -7,3 +7,4 @@ Ogni directory contiene:
 2. Un Makefile per compilare il codice
 3. Un Jupyter Notebook contenente un report dell'esercitazione
 
+È inoltre presente una ulteriore directory di nome Jupyter_Notebbok contenente i dodici report raggruppati
