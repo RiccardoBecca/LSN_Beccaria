@@ -1,0 +1,21 @@
+500
+1
+32
+600
+0.6
+0.08
+0.08
+0.08
+0.08
+50
+
+  ReadInput >> n_generazioni;
+  ReadInput >> square or circle;
+  ReadInput >> numero_città;
+  ReadInput >> number_of_sons;
+  ReadInput >> prob_cross;
+  ReadInput >> prob_m1;
+  ReadInput >> prob_m2;
+  ReadInput >> prob_m3;
+  ReadInput >> prob_m4;
+  ReadInput >> n_migr;
