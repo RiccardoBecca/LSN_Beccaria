@@ -7,4 +7,6 @@ Ogni directory contiene:
 2. Un Makefile per compilare il codice. Si scriva `make` per compilare e `./nome_eseguibile.exe` per eseguire.
 3. Un Jupyter Notebook contenente un report dell'esercitazione
 
-È inoltre presente una ulteriore directory di nome Jupyter_Notebbok contenente i dodici report raggruppati
+È inoltre presente una ulteriore directory di nome Jupyter_Notebbok contenente i dodici report raggruppati.
+
+Nelle esercitazioni 4 e 7 per cambiare fare al sistema è necessario modificare la stringa `phase` presente nel main e ricompilare il codice
